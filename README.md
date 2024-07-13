@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Frontend and Backend Development**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tharagaraman-balaji-577812210/](https://www.linkedin.com/in/tharagaraman-balaji-577812210/)
+- 📝 I regularly write articles on <a href='https://devodyssesy.hashnode.dev'>Developer's Odyssey</a>
 
 - 💬 Ask me about **python and development related queries**
 
