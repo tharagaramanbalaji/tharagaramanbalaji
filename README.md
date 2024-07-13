@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **tharagaraman2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_FkVDBXFVAHILfJ_qx0NWww3XuQWvOUb/view?usp=drive_link](https://drive.google.com/file/d/1_FkVDBXFVAHILfJ_qx0NWww3XuQWvOUb/view?usp=drive_link)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1_FkVDBXFVAHILfJ_qx0NWww3XuQWvOUb/view?usp=drive_link'>Resume</a>
 
 - ⚡ Fun fact **I Dance in my free time**
 
