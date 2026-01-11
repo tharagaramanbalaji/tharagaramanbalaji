@@ -1,5 +1,5 @@
 # 💫 About Me:
-GitHub Introduction<br><br>Hello there! 👋<br><br>Welcome to my GitHub profile. I am pre-final year computer science student who is currently learning ML and AI but also have experience building frontend and backend websites and looking forward to building real-life applications combining all of my interests<br><br>🤝 **Looking to Collaborate On:**<br>  - Frontend & Backend Development projects<br>  - Machine learning applications & Gen AI applications<br><br>Feel free to reach out or ask me about anything. Let's connect.
+GitHub Introduction<br><br>Hello there! 👋<br><br>Welcome to my GitHub profile. I am computer science undergrad who is currently building projects around development end to end real use case applications which combines all my interests<br><br>🤝 **Looking to Collaborate On:**<br>  - Frontend & Backend Development projects<br>  - Machine learning applications & Gen AI applications<br><br>Feel free to reach out or ask me about anything. Let's connect.
 
 
 ## 🌐 Socials:
